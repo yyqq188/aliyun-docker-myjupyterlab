@@ -14,4 +14,4 @@ pip install --upgrade pip
 pip install q
 pip install plotly
 
-#mkdir /root/notebook
+mkdir /root/notebook
