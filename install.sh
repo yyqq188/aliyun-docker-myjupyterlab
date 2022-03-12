@@ -1,4 +1,6 @@
 #!/bin/bash
+export PATH=/root/miniconda3/bin:$PATH
+
 conda install -y pytables
 conda install -y scipy
 conda install -y seaborn
@@ -12,4 +14,4 @@ pip install --upgrade pip
 pip install q
 pip install plotly
 
-mkdir /root/notebook
+#mkdir /root/notebook

@@ -1,4 +1,4 @@
-FROM registry.cn-hangzhou.aliyuncs.com/yyqq188/jupyterlab:basict
+FROM registry.cn-hangzhou.aliyuncs.com/yyqq188/jupyterlab:basic
 MAINTAINER yanghualei_1012@163.com
 ADD jupyter_lab_config.py /root/.jupyter/
 ADD mycert.pem /root/.jupyter/
