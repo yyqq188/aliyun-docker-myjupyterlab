@@ -17,9 +17,9 @@ conda install -y pyyaml
 
 
 
-pip install --upgrade pip
-pip install q
-pip install plotly
+python -m -pip install -upgrade pip
+pip install q -i http://pypi.douban.com/simple --trusted-host=pypi.douban.com
+pip install plotly -i http://pypi.douban.com/simple --trusted-host=pypi.douban.com
 #在下面添加pip安装的包
 #pip install [package]
 
