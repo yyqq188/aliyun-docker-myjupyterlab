@@ -1,2 +1,2 @@
-jupytercodes/*
-jupytercodes/.*
+jupytercodes/*.*
+jupytercodes/**
