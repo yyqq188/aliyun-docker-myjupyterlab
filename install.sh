@@ -23,8 +23,9 @@ pip install plotly -i http://pypi.douban.com/simple --trusted-host=pypi.douban.c
 #在下面添加pip安装的包
 #pip install [package]
 pip install pandas-datareader -i http://pypi.douban.com/simple --trusted-host=pypi.douban.com
-pip install nose==1.3.6 -i http://pypi.douban.com/simple --trusted-host=pypi.douban.com
+pip install nose -i http://pypi.douban.com/simple --trusted-host=pypi.douban.com
 pip install ibapi -i http://pypi.douban.com/simple --trusted-host=pypi.douban.com
+pip install ib_insync -i http://pypi.douban.com/simple --trusted-host=pypi.douban.com
 
 
 
